@@ -1,9 +1,12 @@
 
-Hi there 👋🏾 welcome to my Github! I'm an Open Source Contributor. I also like front-end and I'm exploring Cloud Tech 🐍 ☁️
-I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+Hi there 👋🏾 welcome to my Github! I'm an Open Source Contributor. 
+I also like front-end and I'm exploring Cloud Tech 🐍 ☁️
+I enjoy using my obsessive attention to detail, 
+my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
+<img align="center" alt="png" src="code.png"/>
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
 
 ### Talking about Personal Stuffs:
