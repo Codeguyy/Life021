@@ -7,7 +7,7 @@ my unequivocal love for making things that change the world.
 That's why I like to make things that make a difference.
 
 <img align="center" alt="png" src="code.png"/>
-<img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="giphy.gif" width="408" height="318" />
 
 ### Talking about Personal Stuffs:
 
